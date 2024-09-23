@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+}
+
+header {
+    background-color: #0044cc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 50px;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about {
+    background-color: #ffecb3;
+}
+
+#mission {
+    background-color: #ffebee;
+}
+
+#what-we-offer {
+    background-color: #e3f2fd;
+}
+
+#why-choose-us {
+    background-color: #c8e6c9;
+}
+
+#vision {
+    background-color: #ffe0b2;
+}
+
+#services-offered {
+    background-color: #d1c4e9;
+}
+
+#rates {
+    background-color: #f8bbd0;
+}
+
+#contact-us {
+    background-color: #e1bee7;
+}
+
+.product-images img {
+    width: 150px;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
